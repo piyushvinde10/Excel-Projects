@@ -18,7 +18,7 @@ This is a **Sales Analytics Dashboard** created in **Microsoft Excel** to visual
 - **Power Query** (For Data Cleaning & Processing)
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Preview](/excel_1.png)
+![Sales Dashboard Preview](https://github.com/piyushvinde10/Excel-Projects/blob/main/Excel%20Project_1/excel_1.png)
 
 ## 📥 How to Use
 1. Download the Excel file from this repository.
